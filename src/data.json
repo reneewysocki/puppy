@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "assets/images/shiba.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "assets/images/sunny-lab.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "assets/images/cavalier.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "assets/images/silly-golden.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "assets/images/white-fluff.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "assets/images/black-lab.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "assets/images/gsd.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "assets/images/husky.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "assets/images/corgi.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "assets/images/bulldog.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "assets/images/papillion.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "assets/images/pug.jpg",
+      "clicked": false
+    }
+  ]

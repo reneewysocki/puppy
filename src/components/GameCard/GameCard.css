@@ -1,0 +1,13 @@
+.gameCard {
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    background-size: cover;
+    box-shadow: 5px 5px 5px #08415C;
+    border-radius: 5px;
+}
+
+.gameCard:hover {
+    border: 4px solid #08415C;
+}
